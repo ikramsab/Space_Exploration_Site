@@ -1,0 +1,20 @@
+
+
+body{
+    background-image: url("space.jpg");
+    background-size: cover; /*to cover the whole page*/
+    text-align: center;
+   font-family: 'Orbitron', sans-serif;
+}
+h1{
+    color: white;
+
+}
+.apply{
+    padding: 6px 12px;
+    background-color: white;
+    border-radius: 0%;
+    border:none;
+    font-family: 'Orbitron', sans-serif;
+  
+}
